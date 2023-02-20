@@ -23,7 +23,7 @@ Las tablas creadas contienen el promedio de las notas de todas las películas qu
 
 Seleccionado cualquier parámetro, por ejemplo un único género/película, automáticamente ofrecerá la información disponible sobre la elección en concreto.
 
-Ademas de esto, en la parte superior izquiera, se ha creado un botón navegador para que se pueda trasladar de una página a otro según el interés que se tenga.
+Ademas de esto, en la parte superior izquierda, se ha creado un botón navegador para que se pueda trasladar de una página a otro según el interés que se tenga.
 
 <details>
 <summary>NETFLIX</summary>
@@ -79,4 +79,4 @@ Como conclusión final del proyecto tras analizar los datos anteriores, se podr�
 - Netflix es la plataforma con las películas más recientes.
 - HBO se enfoca a un público más amplio y además sus películas tienen un promedio de notas bastante elevado.
 - Disney Plus incluye un público mayoritariamente joven, pero también se enfoca bastante en los adultos. 
-- Y por último, Amazon es la plataforma que tiene más películas según el rango de los años de lanzamiento. 
+- Y por último, Amazon es la plataforma que tiene más películas con diferentes rangos en cuanto a los años de lanzamiento. 
