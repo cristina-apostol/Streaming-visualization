@@ -1,5 +1,5 @@
 # Visualization project - Streaming services
-![](/images/plat.jpg)
+![](/images/plat.JPG)
 
 
 
@@ -35,7 +35,7 @@ En última instancia, la nota media de todas las películas rondan un 5,9 según
 
 Por tanto según este informe, Netlifx se enfoca a un público joven y adulto, con películas relativamente recientes y una nota media que ronda el 7 según ambas páginas de información sobre cine.
 
-![FOTO](/images/netflix.png)
+![FOTO](/images/netflix.PNG)
 
 <br></details>
 <details>
@@ -48,7 +48,7 @@ Por otro lado, HBO MAX, se centra en un público más amplio, sobre todo a edade
 
 En conclusión HBO MAX, a diferencia de Netlfix, amplía su público objetivo y dispone de películas con un rango mayor de lanzamiento. Además la nota media de películas es ligeramente más alta, con un promedio de 7,2.
 
-![FOTO](/images/hbo.png)
+![FOTO](/images/hbo.PNG)
 
 <br></details>
 <details>
@@ -59,7 +59,7 @@ Disney Plus por su parte, al igual que HBO se concentra en un público joven y a
 
 La nota media de las películas es más baja que en las otras dos plataformas ya analizadas, con una nota media de 6,65.
 
-![FOTO](/images/disney.png)
+![FOTO](/images/disney.PNG)
 
 <br></details>
 <details>
